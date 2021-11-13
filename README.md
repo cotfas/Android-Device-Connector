@@ -37,7 +37,7 @@ Example on how it looks like:
 
 ![alt text](https://raw.githubusercontent.com/cotfas/Android-Device-Connector/main/android-device-window.png?raw=true)
 
-Example video of usage can be found: https://github.com/cotfas/Android-Device-Connector/blob/main/Example.mov
+Example of usage can be found: [Link to Video](https://github.com/cotfas/Android-Device-Connector/blob/main/Example.mov)
 
 
     # License
