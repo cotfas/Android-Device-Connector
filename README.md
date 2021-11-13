@@ -35,9 +35,9 @@ And selecting the `android.sh d` will be able to disconnect the device from the 
 
 Example on how it looks like:
 
-![alt text](https://raw.githubusercontent.com/cotfas/Android-Device-Connector/main/android-device-window.png?raw=true)
+![alt text](https://raw.githubusercontent.com/cotfas/Android-Device-Connector/main/Sample/android-device-window.png?raw=true)
 
-Example of usage can be found: [Link to Video](https://github.com/cotfas/Android-Device-Connector/blob/main/Example.mov)
+Example of usage can be found: [Link to Video](https://github.com/cotfas/Android-Device-Connector/blob/main/Sample/Example.mov)
 
 
     # License
