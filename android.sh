@@ -1,8 +1,11 @@
 #!/bin/bash
 
+#Author: Vlad Cotfas @APACHE2.0 License - https://github.com/cotfas/Android-Device-Connector
+
 #first setup
 #brew install scrcpy
 #brew install android-platform-tools
+#brew install iproute2mac
 
 #issues: when emulator opened, android.sh w to device does not work until emulator is closed
 
