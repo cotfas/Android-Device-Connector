@@ -5,6 +5,7 @@ Created a simple android.sh terminal command to connect to Android devices via A
 
     brew install scrcpy
     brew install android-platform-tools
+    brew install iproute2mac
     
 Copy android.sh to your profile path.
 
