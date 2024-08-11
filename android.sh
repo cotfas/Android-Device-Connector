@@ -7,8 +7,6 @@
 #brew install android-platform-tools
 #brew install iproute2mac
 
-#issues: when emulator opened, android.sh w to device does not work until emulator is closed
-
 
 function random-port() {
     while [[ not != found ]]; do
