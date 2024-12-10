@@ -43,7 +43,7 @@ Example of usage can be found: [Link to Video](https://github.com/cotfas/Android
 [](https://github.com/user-attachments/assets/d6ec8b2e-c810-4296-b93e-b49493a7c459)
 
 
-
+— This project was created in 2019.
 
     # License
 
